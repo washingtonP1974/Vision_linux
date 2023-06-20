@@ -21,3 +21,6 @@ Better information (speedtest-cli) https://www.speedtest.net/pt/apps/cli
 or
 
 python3 vision.py 192.168.x.x (192.168.x.x = your router's ip - eth0 or wlan0)
+
+
+Thank you for choosing this tool.
